@@ -54,7 +54,6 @@
         }
 
         #endregion
-        //Committing this magic shit comment
         private System.Windows.Forms.Button button1;
     }
 }
