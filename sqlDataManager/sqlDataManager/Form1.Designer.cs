@@ -33,7 +33,7 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(12, 12);
+            this.button1.Location = new System.Drawing.Point(40, 59);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(260, 24);
             this.button1.TabIndex = 0;
@@ -45,16 +45,16 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(284, 47);
+            this.ClientSize = new System.Drawing.Size(358, 131);
             this.Controls.Add(this.button1);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Form2";
             this.ResumeLayout(false);
 
         }
 
         #endregion
-
+        //Committing this magic shit comment
         private System.Windows.Forms.Button button1;
     }
 }
