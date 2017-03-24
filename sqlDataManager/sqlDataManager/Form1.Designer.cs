@@ -48,13 +48,13 @@
             this.ClientSize = new System.Drawing.Size(284, 47);
             this.Controls.Add(this.button1);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Form2";
             this.ResumeLayout(false);
 
         }
 
         #endregion
-
+        //Committing this magic shit comment
         private System.Windows.Forms.Button button1;
     }
 }
